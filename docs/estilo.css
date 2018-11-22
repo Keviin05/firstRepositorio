@@ -1,0 +1,133 @@
+body{
+	background: radial-gradient(ellipse at center, rgba(241,231,103,1) 0%, rgba(241,231,103,1) 24%, rgba(254,182,69,1) 100%);
+}
+
+#cabecera{
+	overflow: hidden;
+	margin-left: 2%;
+	
+}
+
+#titulo{
+	margin-left: 40px;
+	font-size: 3.5em;
+	float: left;
+	font-family: cursive;
+  	font-style: italic;
+}
+
+.menu {
+	margin-top: 50px;
+	margin-right: 1%;
+	float: right;
+  	background-color: transparent;
+  	top: 0;
+}
+.menu a {
+  float: left;
+  display: block;
+  color: #000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.menu a:hover {
+  background: tomato;
+  color: white;
+}
+
+
+
+.caja{ 
+    margin: 3px;
+    background: #f0e767;
+
+}
+.left{
+	float: left;
+}
+
+.right{
+	float: right;
+}
+#Informacion{
+	clear: both;
+}
+#imgUsuario{
+	float: left;
+}
+#apellido{
+	margin-top: 30px;
+	text-align: center;
+}
+.preferencias{
+	border-style: inset;
+	float:left;
+	margin-left: 10px;
+}
+#contenedor0{
+	background-color: transparent;
+	display: flex;
+}
+#contenedor1{
+	width: 33%;
+	float: left;
+	padding-left: 10px;
+}
+#contenedor2{
+	margin-left: 1%;
+	width: 65%;
+	float: right;
+}
+.sangria{
+	margin-left: 30px;
+}
+#piedepag{
+	padding: 10px;
+	margin-top: 15px;
+	text-align: center;
+	color: black;
+}
+
+#iconos{
+	justify-content: center;
+	display: flex;
+}
+.bright{
+	border-right: white ridge;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
